@@ -1,3 +1,3 @@
-# Simple_Calulator
+# Simple_Caclulator
 Small Projects for Beginners
-Comman Line Calculator
+Command Line Calculator
